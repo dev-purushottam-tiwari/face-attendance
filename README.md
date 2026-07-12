@@ -4,6 +4,11 @@ A **production-ready Face Recognition Attendance Management System** built using
 
 Designed for organizations to automate attendance securely through AI-powered facial recognition while providing powerful administration, analytics, reporting, and employee management.
 
+
+🌐 Live Demo
+
+🔗 Live Application: https://attendly-alpha.vercel.app/
+
 ---
 
 # 📌 Features
