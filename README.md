@@ -316,7 +316,7 @@ Attendance Report
 ## Clone Repository
 
 ```bash
-git clone https://github.com/dev-purushottam-tiwari/face-recognition-attendance.git
+git clone https://github.com/dev-purushottam-tiwari/face-attendance.git
 ```
 
 ```bash
