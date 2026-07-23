@@ -7,7 +7,7 @@ Designed for organizations to automate attendance securely through AI-powered fa
 
 🌐 Live Demo
 
-🔗 Live Application: face-attendance-eta-six.vercel.app
+🔗 Live Application: "face-attendance-eta-six.vercel.app"
 
 ---
 
